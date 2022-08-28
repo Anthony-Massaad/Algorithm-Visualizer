@@ -6,7 +6,7 @@ This repository is an implementation of an algorithm visualizer of: Merge sort, 
 
 ## Preview
 
-After Running                |  After Running
+Befire Running                |  After Running
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/62800170/187078999-73f1b8c9-9363-4eff-8867-85826aaa486e.png) | ![image](https://user-images.githubusercontent.com/62800170/187079042-21e85fbc-a228-446b-81e5-76766f32994a.png)
 
